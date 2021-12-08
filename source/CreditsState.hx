@@ -50,7 +50,7 @@ class CreditsState extends MusicBeatState
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
 			['hirin',		'hirin',		'otimizador e portador?',					https://youtube.com/channel/UCxM3EO6VStjDPUouGZ74wpg	'0xFFFFDD33'],
 			['Psych Engine Team'],
-			['hirin',		'hirin',		'um dos criadores',					'https://twitter.com/Shadow_Mario_',	'0xFFFFDD33'],
+			['shadow mario',		'shadow mario',		'main progammer of psych engine',					'https://twitter.com/Shadow_Mario_',	'0xFFFFDD33'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		'0xFFC30085'],
 			[''],
 			['Engine Contributors'],
