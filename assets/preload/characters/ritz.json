@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "RITZ pose IDLE DANCE"
+		},
+		{
+			"offsets": [
+				-11,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "RITZ POSE HEY!!"
+		},
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RITZ pose RIGHT"
+		},
+		{
+			"offsets": [
+				37,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "RITZ POSE DOWN"
+		},
+		{
+			"offsets": [
+				42,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "RITZ pose LEFT"
+		},
+		{
+			"offsets": [
+				2,
+				73
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "RITZ pose UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ritz_FNF_Assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "ritz",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		140,
+		2
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
