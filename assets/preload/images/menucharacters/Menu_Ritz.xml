@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Ritz.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M Ritz HEY!!0000" x="10" y="10" width="401" height="411" frameX="-5" frameY="0" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0001" x="10" y="10" width="401" height="411" frameX="-5" frameY="0" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0002" x="421" y="10" width="399" height="408" frameX="-8" frameY="-5" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0003" x="830" y="10" width="406" height="408" frameX="-1" frameY="-5" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0004" x="1246" y="10" width="402" height="409" frameX="-5" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0005" x="1246" y="10" width="402" height="409" frameX="-5" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0006" x="10" y="431" width="402" height="409" frameX="-5" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0007" x="422" y="431" width="405" height="409" frameX="-2" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0008" x="837" y="431" width="407" height="409" frameX="0" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0009" x="837" y="431" width="407" height="409" frameX="0" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0010" x="1254" y="431" width="405" height="409" frameX="-2" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0011" x="1254" y="431" width="405" height="409" frameX="-2" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0012" x="1254" y="431" width="405" height="409" frameX="-2" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0013" x="1254" y="431" width="405" height="409" frameX="-2" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0014" x="1254" y="431" width="405" height="409" frameX="-2" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0015" x="1254" y="431" width="405" height="409" frameX="-2" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0016" x="1254" y="431" width="405" height="409" frameX="-2" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0017" x="1254" y="431" width="405" height="409" frameX="-2" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0018" x="1254" y="431" width="405" height="409" frameX="-2" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0019" x="1254" y="431" width="405" height="409" frameX="-2" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0020" x="1254" y="431" width="405" height="409" frameX="-2" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0021" x="1254" y="431" width="405" height="409" frameX="-2" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0022" x="1254" y="431" width="405" height="409" frameX="-2" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0023" x="1254" y="431" width="405" height="409" frameX="-2" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0024" x="1254" y="431" width="405" height="409" frameX="-2" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz HEY!!0025" x="1254" y="431" width="405" height="409" frameX="-2" frameY="-4" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="M Ritz Idle0000" x="10" y="850" width="409" height="410" frameX="-4" frameY="-8" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="M Ritz Idle0001" x="10" y="850" width="409" height="410" frameX="-4" frameY="-8" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="M Ritz Idle0002" x="429" y="850" width="405" height="413" frameX="-7" frameY="-5" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="M Ritz Idle0003" x="844" y="850" width="405" height="413" frameX="-7" frameY="-5" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="M Ritz Idle0004" x="1259" y="850" width="405" height="415" frameX="-2" frameY="-2" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="M Ritz Idle0005" x="1259" y="850" width="405" height="415" frameX="-2" frameY="-2" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="M Ritz Idle0006" x="10" y="1275" width="401" height="417" frameX="0" frameY="0" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="M Ritz Idle0007" x="421" y="1275" width="401" height="417" frameX="0" frameY="0" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="M Ritz Idle0008" x="832" y="1275" width="400" height="416" frameX="-2" frameY="-1" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="M Ritz Idle0009" x="832" y="1275" width="400" height="416" frameX="-2" frameY="-1" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="M Ritz Idle0010" x="1242" y="1275" width="400" height="416" frameX="-2" frameY="-1" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="M Ritz Idle0011" x="1242" y="1275" width="400" height="416" frameX="-2" frameY="-1" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="M Ritz Idle0012" x="1242" y="1275" width="400" height="416" frameX="-2" frameY="-1" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="M Ritz Idle0013" x="1242" y="1275" width="400" height="416" frameX="-2" frameY="-1" frameWidth="413" frameHeight="418"/>
+</TextureAtlas>
