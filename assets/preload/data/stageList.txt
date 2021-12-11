@@ -4,5 +4,5 @@ philly
 limo
 mall
 mallEvil
-ritznight
-ritzday
+whitty
+whittycrazy
